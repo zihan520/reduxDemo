@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c7baedd-9d99-4c79-b6f1-697226d9c7dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1juDzOdd1szJ6SexSU0LmTm0Wbb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../molan" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="ts.external.directory.path" value="F:\tool\WebStorm 2019.3.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c7baedd-9d99-4c79-b6f1-697226d9c7dd" name="Default Changelist" comment="" />
+      <created>1604645344973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604645344973</updated>
+      <workItem from="1604645349079" duration="9528000" />
+      <workItem from="1604885586350" duration="7057000" />
+      <workItem from="1604979340953" duration="11049000" />
+      <workItem from="1605057169014" duration="15906000" />
+      <workItem from="1605143499998" duration="7348000" />
+      <workItem from="1605246383003" duration="9324000" />
+      <workItem from="1605495266401" duration="598000" />
+      <workItem from="1605678296607" duration="598000" />
+      <workItem from="1605748767608" duration="3715000" />
+      <workItem from="1606050030916" duration="2918000" />
+      <workItem from="1606115724540" duration="1625000" />
+      <workItem from="1607914129989" duration="1244000" />
+      <workItem from="1607917228456" duration="9465000" />
+      <workItem from="1608003331610" duration="4428000" />
+      <workItem from="1608109291936" duration="1476000" />
+      <workItem from="1608192479766" duration="1368000" />
+      <workItem from="1608601877520" duration="677000" />
+      <workItem from="1609148035047" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/wait-for-expect/lib/toBeInRangeMatcher.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wait-for-expect/lib/waitForExpect.spec.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wait-for-expect/lib/index.d.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="172" y="0" key="#ESLint" timestamp="1604652398296">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="172" y="0" key="#ESLint/0.0.1360.728@0.0.1360.728" timestamp="1604652398296" />
+    <state x="364" y="147" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605077333090">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="364" y="147" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1605077333090" />
+    <state x="410" y="61" key="FileChooserDialogImpl" timestamp="1608192493590">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="61" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1608192493590" />
+    <state x="57" y="0" key="SettingsEditor" timestamp="1607914664151">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="57" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1607914664151" />
+    <state x="268" y="23" width="823" height="682" key="find.popup" timestamp="1605151168439">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="268" y="23" width="823" height="682" key="find.popup/0.0.1360.728@0.0.1360.728" timestamp="1605151168439" />
+    <state x="259" y="-1" key="search.everywhere.popup" timestamp="1605061861069">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="259" y="-1" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1605061861069" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/hoc/comHoc.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
